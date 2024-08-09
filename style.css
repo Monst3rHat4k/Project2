@@ -1,5 +1,10 @@
-.patrat {
+.patrat{
     width: 200px;
     height: 200px;
     background-color: rgb(185, 131, 51);
+}
+.patratRosu{
+    width: 200px;
+    height: 200px;
+    background-color: red;
 }
