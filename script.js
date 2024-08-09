@@ -1,5 +1,6 @@
-const patrat =document.querySelector('.patrat')
+const patrat = document.querySelector('.patrat')
 
-patrat.addEventListener('click',(ev)=>{
-    patrat.style.backgroundColor = 'red'
+patrat.addEventListener('click', (ev) => {
+    patrat.classList.toggle('patrat__alp')
+    patrat.classList.toggle('patrat')
 })

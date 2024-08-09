@@ -1,5 +1,11 @@
 .patrat {
     width: 200px;
     height: 200px;
-    background-color: rgb(185, 131, 51);
+    background-color: rgb(82, 70, 51);
+}
+
+.patrat__alp {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(25, 21, 15);
 }
